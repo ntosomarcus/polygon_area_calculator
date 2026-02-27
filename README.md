@@ -6,9 +6,9 @@
 - String Representation (__repr__)
 - Integer Division
 
-##This project implements Rectangle and Square classes using Object-Oriented Programming in Python.
+## This project implements Rectangle and Square classes using Object-Oriented Programming in Python.
 
-##It supports:
+## It supports:
 - Area calculation
 - Perimeter calculation
 - Diagonal calculation
