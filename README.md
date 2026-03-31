@@ -12,7 +12,6 @@
 - Area calculation
 - Perimeter calculation
 - Diagonal calculation
-- ASCII picture generation
 - Shape containment calculation
 
 - Run the Python file containing the classes.
